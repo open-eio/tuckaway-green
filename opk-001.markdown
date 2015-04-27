@@ -1,0 +1,25 @@
+## sources of failure
+and how to minimize them
+
+- overheating
+- wifi drop
+run test to identify which wifi dongles are best
+set up test at e.g. microcenter
+2 chipsets were best:
+ateros and realtek with antennna
+allows for extended and directed antenna
+
+- sd card fail
+- enclosure - moisture
+- power / battery fail
+
+## bmp180 connected to raspberry pi via i2c
+
+https://learn.adafruit.com/using-the-bmp085-with-raspberry-pi/configuring-the-pi-for-i2c
+
+## making a new raspberry pi startup disk 
+
+## connecting to raspberry pi
+
+sudo apt-get install screen
+
